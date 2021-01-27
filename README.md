@@ -1,0 +1,2 @@
+# Pymaceuticals
+ - Pymaceuticals specializes in anti-cancer pharmaceuticals. The data analyzed was drawn from 249 mice identified with squamous cell carcinoma tumor growth that were treated through different drug regimens. Over the coarse of 45 days, rumor development was observed and measured. The data analysis compared the performance of Pymaceutical's drug of interest (Capomulin) to the performance of three other drugs. 
